@@ -2,7 +2,6 @@ package science.mengxin.springbootjokes.config;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
 
 /**
  * <p>Date:    22/04/18
@@ -10,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
  * @author mengxin
  * @version 1.0
  */
-@Configuration
+//@Configuration
 public class ChuckConfiguration {
 
     @Bean
